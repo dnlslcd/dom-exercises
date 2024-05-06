@@ -8,7 +8,7 @@
 /**
  * Cambia el título de la página a rojo usando un estilo en línea
  */
-
+document.querySelector("h1").style.color = "red";
 /**
  * Cambia el tamaño del título de la página a 48px usando un estilo en línea
  */
